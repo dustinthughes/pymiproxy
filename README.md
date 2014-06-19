@@ -140,3 +140,7 @@ you'll get an exception.
 Thanks to the great documentation at python.org, GnuCitizen's PDP for the ideas, the pyOpenSSL group for making a great
 OpenSSL API.
 
+# NOTES
+* do not use any other repo beside this one.. the others are tainted with ads.
+* I will be ethical and not do any strange stuff, only try to inprove the software.
+
